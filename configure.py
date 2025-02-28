@@ -29,7 +29,10 @@ from tools.project import (
 # Game versions
 DEFAULT_VERSION = 0
 VERSIONS = [
-    "WBME",  # 0
+    "WBME_1",  # 0
+    #"WBME_256",  # 1
+    #"WBMJ_1",  # 2
+    "WBMJ_258",  # 3
 ]
 
 parser = argparse.ArgumentParser()

@@ -1,9 +1,9 @@
 # See config.example.yml for documentation.
-object_base: orig/WBME
+object_base: orig/WBMJ_258
 object: 00000001.dol
-hash: 328b451e369e8d305a65c00ca710eb8175fe9f0a
-symbols: config/WBME/symbols.txt
-splits: config/WBME/splits.txt
+hash: 79b63097cb71fb524404923952ad821e887aaed6
+symbols: config/WBMJ_258/symbols.txt
+splits: config/WBMJ_258/splits.txt
 # Change this to match the linker verison.
 # See config.example.yml for a list.
 mw_comment_version: 11
